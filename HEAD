@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 4795f9fe03b3e603322372d98d6fe4d7d20eb0d2 Neylas <neylas@example.com> 1791993077 +0000	commit (initial): chore: init project skeleton (pubspec with provider, lints, .gitignore)
+4795f9fe03b3e603322372d98d6fe4d7d20eb0d2 fcd56fe5de0e9a45926f20f5aa08225f87c061c1 Neylas <neylas@example.com> 1791993077 +0000	commit: feat(data): Product, CartLine, demo catalog and FakeApi with delay/random errors
+fcd56fe5de0e9a45926f20f5aa08225f87c061c1 f3ccc21d648a6f64936063f43791212c32bbeae2 Neylas <neylas@example.com> 1791993077 +0000	commit: feat(state): CatalogModel, CartModel, OrderModel (ChangeNotifier) + unit tests
+f3ccc21d648a6f64936063f43791212c32bbeae2 a12e76db6319b06a1aa45b0eed5f53997ee50014 Neylas <neylas@example.com> 1791993115 +0000	commit: feat(widgets): catalog and cart widgets using context.watch / Consumer (baseline)
+a12e76db6319b06a1aa45b0eed5f53997ee50014 4eb2628ddcc91f454486f76d63e8ee9be92fdad1 Neylas <neylas@example.com> 1791993115 +0000	commit: feat(app): MultiProvider above MaterialApp; catalog, product and cart screens
+4eb2628ddcc91f454486f76d63e8ee9be92fdad1 e39dfb69408cd2f17079e0c060a1b6a36095988a Neylas <neylas@example.com> 1791993137 +0000	commit: perf: switch to select/Selector, split subscriptions into narrow widgets
+e39dfb69408cd2f17079e0c060a1b6a36095988a e670eb9874a40ad15b81cbee1c488f751cadfc01 Neylas <neylas@example.com> 1792143920 +0000	commit: docs: README with provider usage map and rebuild report (before/after Selector)
